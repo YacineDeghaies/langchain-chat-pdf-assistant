@@ -1,0 +1,2 @@
+### Requirements
+conda install streamlit langchain python-dotenv openai huggingface_hub pypdf2 faiss-cpu# langchain-chat-pdf-assistant
