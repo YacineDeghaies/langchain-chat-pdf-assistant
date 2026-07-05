@@ -22,8 +22,10 @@ def main():
         text = ""
         for page in PdfReader(pdf).pages:
             text += page.extract_text()
-
-        st.write(text)
+            
+    
+    
+    st.write(text)
         
 
 if __name__ == "__main__":
