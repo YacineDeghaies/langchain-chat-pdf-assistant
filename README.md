@@ -37,3 +37,5 @@ Um die App zu starten:
 ```
 streamlit run app.py
 ```
+## Todos
+- Feature: Benutzer können das Modell selbst auswählen.
